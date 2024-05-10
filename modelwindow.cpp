@@ -1,6 +1,6 @@
 #include "modelwindow.h"
 #include "ui_modelwindow.h"
-
+#include <iostream>
 ModelWindow::ModelWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::ModelWindow)
@@ -22,6 +22,7 @@ void ModelWindow::onConfirmClicked(){
 
     // 打印输入的文字到控制台
     qDebug() << "Input param1: " << inputText;
+    std::cout << "Imput param1: " <<inputText.toStdString();
     inputText = ui->param2->text();
     qDebug() << "Input param2: " << inputText;
     inputText = ui->param3->text();

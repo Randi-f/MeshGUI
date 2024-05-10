@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include "modelwindow.h"
-#include "mybutton.h"
+// #include "mybutton.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {

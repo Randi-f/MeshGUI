@@ -73,13 +73,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 66,
+				"line" : 65,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 49,
+				"line" : 48,
 				"parent" : 0
 			},
 			{
@@ -300,7 +300,7 @@
 				},
 				{
 					"backtrace" : 37,
-					"path" : "/Users/shihan/D\u76d8/IC/Individual project/codes/MeshGUI"
+					"path" : "/Users/shihan/D\u76d8/IC/Individual project/codes/MeshGUI/MeshGUI"
 				},
 				{
 					"backtrace" : 14,

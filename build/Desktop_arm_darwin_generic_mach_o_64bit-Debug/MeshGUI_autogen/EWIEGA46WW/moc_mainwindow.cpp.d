@@ -92,7 +92,6 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/modelwindow.h \
-  /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/mybutton.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
@@ -231,10 +230,7 @@
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
-  /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
-  /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
-  /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/qpushbutton.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
   /opt/homebrew/Cellar/qt/6.6.2_2/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \

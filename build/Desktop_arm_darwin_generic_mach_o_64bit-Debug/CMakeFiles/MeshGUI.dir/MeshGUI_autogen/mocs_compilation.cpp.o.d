@@ -1057,12 +1057,11 @@ CMakeFiles/MeshGUI.dir/MeshGUI_autogen/mocs_compilation.cpp.o: \
   /opt/homebrew/include/QtGui/qbitmap.h \
   /opt/homebrew/include/QtWidgets/qtabwidget.h \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/modelwindow.h \
-  /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/mybutton.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QPushButton \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /opt/homebrew/include/QtWidgets/qabstractbutton.h \
   /opt/homebrew/include/QtCore/qtmochelpers.h \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/EWIEGA46WW/moc_modelwindow.cpp \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/EWIEGA46WW/../../../../modelwindow.h \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/EWIEGA46WW/moc_mybutton.cpp \
-  /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/EWIEGA46WW/../../../../mybutton.h
+  /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/EWIEGA46WW/../../../../mybutton.h \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/QPushButton \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /opt/homebrew/include/QtWidgets/qabstractbutton.h

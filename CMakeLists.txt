@@ -74,5 +74,5 @@ endif()
 
 # Specify include directories
 #target_include_directories(MeshGUI PRIVATE /Users/shihan/D盘/IC/Individual\ project/codes/#MeshGUI)
-target_include_directories(MeshGUI PRIVATE ${CMAKE_SOURCE_DIR})
+target_include_directories(MeshGUI PRIVATE "${CMAKE_SOURCE_DIR}/MeshGUI")
 

@@ -4,7 +4,7 @@
 # compile CXX with /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I"/Users/shihan/D盘/IC/Individual project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/include" -I"/Users/shihan/D盘/IC/Individual project/codes/MeshGUI" -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
+CXX_INCLUDES = -I"/Users/shihan/D盘/IC/Individual project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/include" -I"/Users/shihan/D盘/IC/Individual project/codes/MeshGUI/MeshGUI" -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers
 
 CXX_FLAGSarm64 = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
 

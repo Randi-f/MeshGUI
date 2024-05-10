@@ -1098,4 +1098,8 @@ CMakeFiles/MeshGUI.dir/modelwindow.cpp.o: \
   /opt/homebrew/include/QtWidgets/QStatusBar \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qstatusbar.h \
   /opt/homebrew/include/QtWidgets/QWidget \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/iostream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/istream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/ostream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/bitset

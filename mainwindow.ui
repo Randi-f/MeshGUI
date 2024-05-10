@@ -27,19 +27,6 @@
      <string>chooseModels</string>
     </property>
    </widget>
-   <widget class="MyButton" name="btn_myButton">
-    <property name="geometry">
-     <rect>
-      <x>80</x>
-      <y>180</y>
-      <width>100</width>
-      <height>32</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>myButton</string>
-    </property>
-   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -53,13 +40,6 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <customwidgets>
-  <customwidget>
-   <class>MyButton</class>
-   <extends>QPushButton</extends>
-   <header>mybutton.h</header>
-  </customwidget>
- </customwidgets>
  <resources/>
  <connections/>
 </ui>

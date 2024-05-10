@@ -1056,10 +1056,6 @@ CMakeFiles/MeshGUI.dir/mainwindow.cpp.o: \
   /opt/homebrew/include/QtGui/qbitmap.h \
   /opt/homebrew/include/QtWidgets/qtabwidget.h \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/modelwindow.h \
-  /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/mybutton.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QPushButton \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /opt/homebrew/include/QtWidgets/qabstractbutton.h \
   /Users/shihan/D盘/IC/Individual\ project/codes/MeshGUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/MeshGUI_autogen/include/ui_mainwindow.h \
   /opt/homebrew/include/QtCore/QVariant \
   /opt/homebrew/lib/QtCore.framework/Headers/qvariant.h \
@@ -1079,6 +1075,8 @@ CMakeFiles/MeshGUI.dir/mainwindow.cpp.o: \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmenubar.h \
   /opt/homebrew/include/QtWidgets/qmenu.h \
   /opt/homebrew/include/QtWidgets/QPushButton \
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /opt/homebrew/include/QtWidgets/qabstractbutton.h \
   /opt/homebrew/include/QtWidgets/QStatusBar \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qstatusbar.h \
   /opt/homebrew/include/QtWidgets/QWidget \

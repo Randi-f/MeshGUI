@@ -379,7 +379,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/Users/shihan/D\u76d8/IC/Individual project/codes/MeshGUI",
+		"/Users/shihan/D\u76d8/IC/Individual project/codes/MeshGUI/MeshGUI",
 		"/opt/homebrew/lib/QtCore.framework/Headers",
 		"/opt/homebrew/lib/QtCore.framework",
 		"/opt/homebrew/share/qt/mkspecs/macx-clang",
